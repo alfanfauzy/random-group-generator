@@ -24,17 +24,17 @@ Masukkan daftar nama, pilih jumlah anggota per grup, dan biarkan animasi serta k
 
 2. Install dependencies:
 
-```bash
-    yarn install
-```
+   ```bash
+   yarn install
+   ```
 
 3. Jalankan di local:
 
-```bash
-  yarn dev
-  Buka di browser:
-  http://localhost:3000
-```
+   ```bash
+   yarn dev
+   Buka di browser:
+   http://localhost:5173
+   ```
 
 ## 🛠 Tech Stack
 
