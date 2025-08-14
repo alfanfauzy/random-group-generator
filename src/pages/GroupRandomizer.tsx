@@ -137,7 +137,7 @@ export default function GroupRandomizer() {
                   className="flex gap-2 mx-auto mt-2"
                 >
                   <Download className="w-4 h-4" />
-                  Simpan Gambar
+                  Unduh Gambar
                 </Button>
               </div>
             )}
